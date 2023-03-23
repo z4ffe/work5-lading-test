@@ -1,0 +1,14 @@
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg-primary {
+  background-color: #F8FAFF !important;
+}
+
+/*# sourceMappingURL=styles.css.map */
